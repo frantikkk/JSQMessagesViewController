@@ -16,7 +16,8 @@
 //  Released under an MIT license: http://opensource.org/licenses/MIT
 //
 
-@import JSQSystemSoundPlayer;
+//@import JSQSystemSoundPlayer;
+#import <JSQSystemSoundPlayer/JSQSystemSoundPlayer.h>
 
 @interface JSQSystemSoundPlayer (JSQMessages)
 
